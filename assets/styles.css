@@ -1,0 +1,28 @@
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Styling the radio button */
+.dcc-radio-items {
+    margin: 20px auto;
+    width: 200px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Styling the graph */
+.dcc-graph {
+    margin: 20px auto;
+    width: 80%;
+}
